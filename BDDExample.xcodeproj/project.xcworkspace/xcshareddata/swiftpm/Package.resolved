@@ -1,0 +1,15 @@
+{
+  "originHash" : "2d23764747de73c8ac66832148d4e1c3cb54c2991c81e8252b248182b09b529b",
+  "pins" : [
+    {
+      "identity" : "xctest-gherkin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/net-a-porter-mobile/XCTest-Gherkin.git",
+      "state" : {
+        "revision" : "877b7b1be8bc476ecc402b4aa45a0fb67d03350c",
+        "version" : "0.21.2"
+      }
+    }
+  ],
+  "version" : 3
+}
